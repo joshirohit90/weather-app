@@ -1,2 +1,2 @@
 # weather-app
-Node js project suing weather API
+Node js project using weather API
